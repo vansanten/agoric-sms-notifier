@@ -1,4 +1,4 @@
-# agoric-sms-notifier
+# Agoric SMS Notifier
 Worry about missed blocks? Jail? This script will send you the alert-sms about that!
 
 ![Preview](https://github.com/vansanten/agoric-sms-notifier/raw/main/agoric-sms-notifier.jpg)
